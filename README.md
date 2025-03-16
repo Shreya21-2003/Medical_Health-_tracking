@@ -19,3 +19,6 @@ Python: For implementing core logic and data handling.
 Gradio: To create a web-based user-friendly interface.
 
 Natural Language Processing (NLP): For managing textual disease descriptions and ensuring user queries are mapped to correct remedies.
+
+![Screenshot 2025-03-16 060821](https://github.com/user-attachments/assets/918a803d-692a-477d-811a-c4a81993cdb8)
+
